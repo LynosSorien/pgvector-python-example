@@ -1,0 +1,5 @@
+sentence-transformers
+psycopg2-binary
+pgvector[psycopg2]
+numpy
+protobuf<4
